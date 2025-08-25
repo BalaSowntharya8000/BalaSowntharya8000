@@ -1,4 +1,5 @@
 Bala Sowntharya Bala Subramanian - Data Scientist/Analytics
+
 balasowntharyakb@gmail.com | LinkedIn: linkedin.com/in/bala-sowntharya-bala-subramanian-3a77b934b | GitHub: github.com/BalaSowntharya8000
 
 ### Professional Summary
