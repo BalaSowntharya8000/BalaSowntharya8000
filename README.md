@@ -22,42 +22,42 @@ Professional with 5+ years of leadership and management experience in the EdTech
 - **Adaptability & Change Management:** Thrived in **dynamic and evolving environments,** implementing innovative solutions to meet business and operational goals.
 
 ### Projects
-#### 1. Game Analytics: Unlocking Tennis Data with SportRadar API 🎾 [https://github.com/BalaSowntharya8000/Game-Analytics-Unlocking-Tennis-Data-with-SportRadar-API]
+#### 1. Game Analytics: Unlocking Tennis Data with SportRadar API [https://github.com/BalaSowntharya8000/Game-Analytics-Unlocking-Tennis-Data-with-SportRadar-API]
 - **Domain:** Sports Analytics
 - **Objective:** Extract and analyze real-time tennis match data to generate performance insights.
 - **Approach / Tools:** Python, Pandas, NumPy, SportRadar API, SQL, Matplotlib, Plotly, Streamlit
 - **Skills Gained / Key Takeaways:** Data collection via API, data cleaning & transformation, dashboard development, automated pipelines for historical match insights.
 - **Key Achievements:** Built interactive dashboards to track player performance metrics; automated data pipelines to deliver **comprehensive historical match insights.**
 
-#### 2. Bird Species Observation Analysis 🦜 [https://github.com/BalaSowntharya8000/Bird-Species-Observation-Analysis] 
+#### 2. Bird Species Observation Analysis [https://github.com/BalaSowntharya8000/Bird-Species-Observation-Analysis] 
 - **Domain:** Environmental & Biodiversity Analytics
 - **Objective:** Analyze bird species distribution in forests and grasslands to study habitat patterns.
 - **Approach / Tools:** Python, Pandas, NumPy, SQL, Streamlit, Matplotlib, Plotly
 - **Skills Takeaway:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Geographic Analysis, Species Analysis, SQL, Streamlit
 - **Key Achievements:** Created interactive dashboards enabling researchers to explore **seasonal and habitat-based species distribution trends.**
 
-#### 3. Crop Production Prediction 🌾 [https://github.com/BalaSowntharya8000/Predicting-Crop-Production-Based-on-Agricultural-Data]
+#### 3. Crop Production Prediction [https://github.com/BalaSowntharya8000/Predicting-Crop-Production-Based-on-Agricultural-Data]
 - **Domain:** Agriculture Analytics
 - **Objective:** Predict crop production based on area harvested, yield, and year.
 - **Approach / Tools:** Python, Pandas, NumPy, Scikit-learn, Linear Regression, Streamlit
 - **Skills Takeaway:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, SQL, Streamlit, Machine Learning (Regression)
 - **Key Achievements:** Developed predictive models achieving **>95% accuracy;** deployed an interactive forecasting dashboard to support **data-driven agricultural planning.**
 
-#### 4. Tourism Experience Analytics 🌍 [https://github.com/BalaSowntharya8000/Tourism-Experience-Analytics---ML]
+#### 4. Tourism Experience Analytics [https://github.com/BalaSowntharya8000/Tourism-Experience-Analytics---ML]
 - **Domain:** Tourism Analytics
 - **Objective:** Analyze tourist behavior, predict visit modes, and recommend attractions.
 - **Approach / Tools:** Python, Pandas, NumPy, SQL, Scikit-learn, Recommendation Systems, Streamlit, Plotly
 - **Skills Takeaway:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, SQL, Streamlit, Machine Learning (Regression, Classification, Recommendation Systems)
 - **Key Achievements:** Built a personalized recommendation engine and dashboards visualizing **tourist visit patterns across multiple regions and years, enhancing tourism planning insights.**
 
-#### 5. Solar Panel Defect Detection using Deep Learning ☀️ [https://github.com/BalaSowntharya8000/SolarGuard-Intelligent-Defect-Detection-on-Solar-Panels-using-DeepLearning]
+#### 5. Solar Panel Defect Detection using Deep Learning [https://github.com/BalaSowntharya8000/SolarGuard-Intelligent-Defect-Detection-on-Solar-Panels-using-DeepLearning]
 - **Domain:** Solar Energy / Computer Vision
 - **Objective:** Automatically classify solar panel defects to optimize maintenance scheduling.
 - **Approach / Tools:** Python, TensorFlow/Keras, EfficientNetB3, OpenCV, Streamlit
 - **Skills Takeaway:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, SQL, Streamlit, Deep Learning (CNN & Object Detection)
 - **Key Achievements:** Achieved ~98.9% accuracy with high per-class precision, recall, and F1-scores; deployed a real-time defect detection dashboard designed to improve maintenance efficiency.
 
-#### 6. GUVI Multilingual GPT Chatbot (Final Project) 🤖 [https://github.com/BalaSowntharya8000/GUVI-Multilingual-GPT-Chatbot-using-Streamlit]
+#### 6. GUVI Multilingual GPT Chatbot (Final Project) [https://github.com/BalaSowntharya8000/GUVI-Multilingual-GPT-Chatbot-using-Streamlit]
 - **Domain:** AI / NLP / Web Development
 - **Objective:** Build a multilingual chatbot to provide personalized support to GUVI platform users.
 - **Approach / Tools:** Python, Hugging Face Transformers, Gradio, Deep Translator, Langdetect
